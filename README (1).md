@@ -31,7 +31,7 @@ This interactive dashboard helps analyze and generate insights from influencer c
     ```bash
     python app.py
     ```
-4. Open your browser at `http://127.0.0.1:8050/` to view the dashboard.
+4. Open jupyter notebook to view the dashboard.
 
 ## 📈 Key Metrics
 
@@ -67,5 +67,3 @@ This interactive dashboard helps analyze and generate insights from influencer c
 - Documentation clarity
 
 ---
-
-© 2025 HealthKart Dashboard Project
